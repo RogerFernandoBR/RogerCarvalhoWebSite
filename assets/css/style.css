@@ -696,6 +696,7 @@ section .container {
   padding: 80px 20px;
   border-radius: 10px;
   transition: all ease-in-out 0.3s;
+  width: 100%;
 }
 
 .services .icon-box .icon {
@@ -826,6 +827,14 @@ section .container {
   transition: all ease-in-out 0.3s;
   z-index: 2;
   opacity: 0;
+}
+
+.workingOnIt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+  margin-top: 50px;
 }
 
 .portfolio .portfolio-wrap .portfolio-info {
