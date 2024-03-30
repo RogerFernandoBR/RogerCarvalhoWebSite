@@ -12,7 +12,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/home.png") top right no-repeat;
+  background: #040404 url("../img/perfil2.png") top right no-repeat;
   background-blend-mode: luminosity;
   /* background-size: cover; */
   background-size: contain;
@@ -145,6 +145,7 @@ h1, h2, h3, h4, h5, h6 {
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
   }
 }
 
