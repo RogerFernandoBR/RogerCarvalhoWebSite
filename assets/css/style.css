@@ -12,7 +12,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/perfil2.png") top right no-repeat;
+  background: #040404 url("../img/perfil3.png") top right no-repeat;
   background-blend-mode: luminosity;
   /* background-size: cover; */
   background-size: contain;
